@@ -5,3 +5,11 @@
 .drawer-option {
   padding: 16px;
 }
+
+@media all and (display-mode: standalone) {
+  body {
+     -webkit-user-select: none;
+     -webkit-tap-highlight-color: transparent;
+     -webkit-touch-callout: none;
+  }
+}
