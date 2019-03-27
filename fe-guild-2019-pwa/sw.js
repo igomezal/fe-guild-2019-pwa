@@ -63,6 +63,94 @@ if (workbox) {
   {
     "url": "src/images/main-image.jpg",
     "revision": "489ce4c1c7ebc7545aa528cea56e50c1"
+  },
+  {
+    "url": "src/images/icons/app-icon-144x144.png",
+    "revision": "050a7610f4084f31aef3ef7404b7509b"
+  },
+  {
+    "url": "src/images/icons/app-icon-192x192.png",
+    "revision": "765f2d45ccaf4d0a1e7cb03b4fe38e85"
+  },
+  {
+    "url": "src/images/icons/app-icon-256x256.png",
+    "revision": "f4e23ce75693183534b472268c523439"
+  },
+  {
+    "url": "src/images/icons/app-icon-384x384.png",
+    "revision": "a754850be0e25239bc35596db90b5392"
+  },
+  {
+    "url": "src/images/icons/app-icon-48x48.png",
+    "revision": "f3e3765f04c3938f1b2fc0bc03da3705"
+  },
+  {
+    "url": "src/images/icons/app-icon-512x512.png",
+    "revision": "a05a7f65d7b2d8262e0177ca5509a555"
+  },
+  {
+    "url": "src/images/icons/app-icon-96x96.png",
+    "revision": "9e5ad87d6e91793eef1fafdec0947075"
+  },
+  {
+    "url": "src/images/icons/apple-icon-114x114.png",
+    "revision": "5b31744d4ff76749a7a427a7075cb7f3"
+  },
+  {
+    "url": "src/images/icons/apple-icon-120x120.png",
+    "revision": "1950c43912f8a0ba4773e36cc9e1dd53"
+  },
+  {
+    "url": "src/images/icons/apple-icon-144x144.png",
+    "revision": "c0cff6a826da19e69e4c4e488d2b424b"
+  },
+  {
+    "url": "src/images/icons/apple-icon-152x152.png",
+    "revision": "729653064d04e79961e9d6675b4d1c34"
+  },
+  {
+    "url": "src/images/icons/apple-icon-180x180.png",
+    "revision": "fe342f978eeabb3216fc378389af51a9"
+  },
+  {
+    "url": "src/images/icons/apple-icon-57x57.png",
+    "revision": "8e26f46a1b9a825bba40c41a74fc7ec3"
+  },
+  {
+    "url": "src/images/icons/apple-icon-60x60.png",
+    "revision": "30352b6919f0965bd413fcac71d6c38b"
+  },
+  {
+    "url": "src/images/icons/apple-icon-72x72.png",
+    "revision": "88897b41afe488c6702ad1a737d30507"
+  },
+  {
+    "url": "src/images/icons/apple-icon-76x76.png",
+    "revision": "14d18668b3370067e2eac68a5e1c3594"
+  },
+  {
+    "url": "src/images/splashscreens/iphone5_splash.png",
+    "revision": "b4cb492d1a71285499556b3a4db463d9"
+  },
+  {
+    "url": "src/images/splashscreens/iphone6_splash.png",
+    "revision": "94a7c37176d4a99beb457b2f4c287597"
+  },
+  {
+    "url": "src/images/splashscreens/iphoneplus_splash.png",
+    "revision": "55504707ab273b825d003a41586125e8"
+  },
+  {
+    "url": "src/images/splashscreens/iphonex_splash.png",
+    "revision": "d8173ea794dafb84f05a00cb1787bf4b"
+  },
+  {
+    "url": "src/images/splashscreens/iphonexr_splash.png",
+    "revision": "54ec9f2614768bd555120355e0eb313d"
+  },
+  {
+    "url": "src/images/splashscreens/iphonexsmax_splash.png",
+    "revision": "3bf8c1fd4113a9eb651d31b6a7d38489"
   }
 ]);
   workbox.routing.registerRoute(
