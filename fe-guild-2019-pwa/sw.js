@@ -1,5 +1,5 @@
-const CACHE_STATIC_NAME = 'static_v3';
-const CACHE_DYNAMIC_NAME = 'dynamic_v3';
+const CACHE_STATIC_NAME = 'static_v4';
+const CACHE_DYNAMIC_NAME = 'dynamic_v4';
 
 const URLS_TO_PRECACHE = [
     '/fe-guild-2019-pwa/',
